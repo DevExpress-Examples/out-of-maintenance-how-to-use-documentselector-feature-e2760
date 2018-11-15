@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [ChildForm.cs](./CS/DocumentSelectorApp/ChildForm.cs) (VB: [ChildForm.vb](./VB/DocumentSelectorApp/ChildForm.vb))
+* **[MainForm.cs](./CS/DocumentSelectorApp/MainForm.cs) (VB: [MainForm.vb](./VB/DocumentSelectorApp/MainForm.vb))**
+<!-- default file list end -->
 # How to use DocumentSelector feature
 
 
